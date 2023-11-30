@@ -1,0 +1,140 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Weesh.BusinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Weesh.BusinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Weesh.BusinessLogic.dll": {}
+        }
+      },
+      "Weesh.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Weesh.BusinessLogic": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Weesh.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Weesh.DataAccess.dll": {}
+        }
+      },
+      "Weesh.UserInterface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Weesh.BusinessLogic": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Weesh.UserInterface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Weesh.UserInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Weesh.BusinessLogic/1.0.0": {
+      "type": "project",
+      "path": "../Weesh.BusinessLogic/Weesh.BusinessLogic.csproj",
+      "msbuildProject": "../Weesh.BusinessLogic/Weesh.BusinessLogic.csproj"
+    },
+    "Weesh.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Weesh.DataAccess/Weesh.DataAccess.csproj",
+      "msbuildProject": "../Weesh.DataAccess/Weesh.DataAccess.csproj"
+    },
+    "Weesh.UserInterface/1.0.0": {
+      "type": "project",
+      "path": "../Weesh.UserInterface/Weesh.UserInterface.csproj",
+      "msbuildProject": "../Weesh.UserInterface/Weesh.UserInterface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Weesh.BusinessLogic >= 1.0.0",
+      "Weesh.DataAccess >= 1.0.0",
+      "Weesh.UserInterface >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Денис\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Денис\\Desktop\\Технологии программирования\\Weesh\\Weesh\\Weesh.csproj",
+      "projectName": "Weesh",
+      "projectPath": "C:\\Users\\Денис\\Desktop\\Технологии программирования\\Weesh\\Weesh\\Weesh.csproj",
+      "packagesPath": "C:\\Users\\Денис\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Денис\\Desktop\\Технологии программирования\\Weesh\\Weesh\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Денис\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Денис\\Desktop\\Технологии программирования\\Weesh\\Weesh.BusinessLogic\\Weesh.BusinessLogic.csproj": {
+              "projectPath": "C:\\Users\\Денис\\Desktop\\Технологии программирования\\Weesh\\Weesh.BusinessLogic\\Weesh.BusinessLogic.csproj"
+            },
+            "C:\\Users\\Денис\\Desktop\\Технологии программирования\\Weesh\\Weesh.DataAccess\\Weesh.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Денис\\Desktop\\Технологии программирования\\Weesh\\Weesh.DataAccess\\Weesh.DataAccess.csproj"
+            },
+            "C:\\Users\\Денис\\Desktop\\Технологии программирования\\Weesh\\Weesh.UserInterface\\Weesh.UserInterface.csproj": {
+              "projectPath": "C:\\Users\\Денис\\Desktop\\Технологии программирования\\Weesh\\Weesh.UserInterface\\Weesh.UserInterface.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

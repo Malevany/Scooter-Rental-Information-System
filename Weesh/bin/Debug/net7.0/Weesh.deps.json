@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Weesh/1.0.0": {
+        "dependencies": {
+          "Weesh.BusinessLogic": "1.0.0",
+          "Weesh.DataAccess": "1.0.0",
+          "Weesh.UserInterface": "1.0.0"
+        },
+        "runtime": {
+          "Weesh.dll": {}
+        }
+      },
+      "Weesh.BusinessLogic/1.0.0": {
+        "runtime": {
+          "Weesh.BusinessLogic.dll": {}
+        }
+      },
+      "Weesh.DataAccess/1.0.0": {
+        "dependencies": {
+          "Weesh.BusinessLogic": "1.0.0"
+        },
+        "runtime": {
+          "Weesh.DataAccess.dll": {}
+        }
+      },
+      "Weesh.UserInterface/1.0.0": {
+        "dependencies": {
+          "Weesh.BusinessLogic": "1.0.0"
+        },
+        "runtime": {
+          "Weesh.UserInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Weesh/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Weesh.BusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Weesh.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Weesh.UserInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

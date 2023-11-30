@@ -1,0 +1,15 @@
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.DataAccess\bin\Debug\net7.0\Weesh.DataAccess.deps.json
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.DataAccess\bin\Debug\net7.0\Weesh.DataAccess.dll
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.DataAccess\bin\Debug\net7.0\Weesh.DataAccess.pdb
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.DataAccess\bin\Debug\net7.0\Weesh.BusinessLogic.dll
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.DataAccess\bin\Debug\net7.0\Weesh.BusinessLogic.pdb
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.DataAccess\obj\Debug\net7.0\Weesh.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.DataAccess\obj\Debug\net7.0\Weesh.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.DataAccess\obj\Debug\net7.0\Weesh.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.DataAccess\obj\Debug\net7.0\Weesh.DataAccess.AssemblyInfo.cs
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.DataAccess\obj\Debug\net7.0\Weesh.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.DataAccess\obj\Debug\net7.0\Weesh.DataAccess.csproj.CopyComplete
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.DataAccess\obj\Debug\net7.0\Weesh.DataAccess.dll
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.DataAccess\obj\Debug\net7.0\refint\Weesh.DataAccess.dll
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.DataAccess\obj\Debug\net7.0\Weesh.DataAccess.pdb
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.DataAccess\obj\Debug\net7.0\ref\Weesh.DataAccess.dll

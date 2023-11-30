@@ -1,0 +1,4 @@
+Login Password BonusQuantity TypeOfSub
+Denis qwert 97429 SubForWeek
+Semen zxcv 97925 SubForMonth
+Andrew asdf 0 None

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Weesh": {
+      "commandName": "Project",
+      "commandLineArgs": "samokat.txt Users.txt PricingPolicy.txt"
+    }
+  }
+}

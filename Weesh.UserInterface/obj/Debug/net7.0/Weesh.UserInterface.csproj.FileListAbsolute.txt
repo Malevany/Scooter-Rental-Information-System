@@ -1,0 +1,15 @@
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.UserInterface\obj\Debug\net7.0\Weesh.UserInterface.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.UserInterface\obj\Debug\net7.0\Weesh.UserInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.UserInterface\obj\Debug\net7.0\Weesh.UserInterface.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.UserInterface\obj\Debug\net7.0\Weesh.UserInterface.AssemblyInfo.cs
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.UserInterface\obj\Debug\net7.0\Weesh.UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.UserInterface\bin\Debug\net7.0\Weesh.UserInterface.deps.json
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.UserInterface\bin\Debug\net7.0\Weesh.UserInterface.dll
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.UserInterface\bin\Debug\net7.0\Weesh.UserInterface.pdb
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.UserInterface\bin\Debug\net7.0\Weesh.BusinessLogic.dll
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.UserInterface\bin\Debug\net7.0\Weesh.BusinessLogic.pdb
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.UserInterface\obj\Debug\net7.0\Weesh.UserInterface.csproj.CopyComplete
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.UserInterface\obj\Debug\net7.0\Weesh.UserInterface.dll
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.UserInterface\obj\Debug\net7.0\refint\Weesh.UserInterface.dll
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.UserInterface\obj\Debug\net7.0\Weesh.UserInterface.pdb
+C:\Users\Денис\Desktop\Технологии программирования\Weesh\Weesh.UserInterface\obj\Debug\net7.0\ref\Weesh.UserInterface.dll

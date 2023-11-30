@@ -1,0 +1,13 @@
+ID	Battery	AgeType	Config	Busyness
+AACS050	050	Child	Seat	Free
+ABCS075	075	Child	Seat	Free
+ACCS100	100	Child	Seat	Free
+ADCN050	050	Child	No_Seat	Free
+AECN075	075	Child	No_Seat	Free
+AFCN100	100	Child	No_Seat	Free
+AGAS050	050	Adult	Seat	Free
+AHAS075	075	Adult	Seat	Free
+AIAS100	100	Adult	Seat	Free
+AJAN050	050	Adult	No_Seat	Free
+AKAN075	075	Adult	No_Seat	Free
+ALAN100	100	Adult	No_Seat	Free

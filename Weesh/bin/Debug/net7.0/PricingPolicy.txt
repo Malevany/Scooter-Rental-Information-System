@@ -1,0 +1,2 @@
+PricePerHour	300
+SeatAllowance	1,1
